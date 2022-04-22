@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineering Diploma in Information and Communication Technology, High School of Communications of Tunis (Sup'Com), Tunisia, 2001
+* Ph.D in Electrical and Computer Engineering, University of South Brittany, France, 2006
+* Ability to Conduct Researches (HDR), University of Rennes 1, France, 2021
 
-Work experience
+Current Academic Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2015 - present: Associate Professor HDR at CentraleSupélec
+  * Architecture, Systems, Infrastructure and electroniCs (ASIC) Team
+  * Institut d'Electronique et des Technologies du numéRique (IETR) UMR CNRS 6164
   
-Skills
+* Oct. 2014 - Apr. 2022: Part-Time Researcher at Institute of Research and Technology B<>COM
+  * AI and digital technology
+  * Anomaly detection and classification for radio communication applications
+  
+* Sept. 2008 - present: University lecturer at ISTIC, University of Rennes 1
+  * Master in electronics, electrical energy and automation (EEA) 
+  * Embedded systems (ES)
+ 
+Previous Academic Appointments
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jan. 2008 - Dec. 2014: Assistant Professor at the Ecole Supérieure d'Electricité (Supélec)
+* Sept. 2012 - Jun. 2013: University lecturer at the Higher Institute of Electronics of Paris
+* Sept. 2004 - Feb. 2006: Vacataire Teacher at the University of South Brittany
 
 Publications
 ======
